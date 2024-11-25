@@ -15,3 +15,6 @@ updates:
       interval: "weekly"
     labels:
       - "dependencies"
+       # Add assignees
+    assignees:
+      - "anneferger"
